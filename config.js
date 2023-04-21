@@ -1,3 +1,3 @@
-console.log("Игнорируй меня!");
-alert("Ignore");
+console.log("1");
+console.log("2");
 
